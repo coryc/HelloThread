@@ -1,9 +1,5 @@
 package com.k9.hellothread;
 
-import com.k9.hellothread.thread.NotifyThread;
-import com.k9.hellothread.thread.ThreadCompleteListener;
-import com.k9.hellothread.worker.Worker;
-
 /**
  * Created by Cory on 6/13/2016.
  */
